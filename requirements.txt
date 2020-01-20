@@ -1,3 +1,4 @@
+fabric
 wtforms
 babel
 python-dateutil==2.6.0
